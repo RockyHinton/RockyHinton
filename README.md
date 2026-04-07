@@ -8,10 +8,10 @@ My work sits at the intersection of traditional system design and emerging distr
 
 I am currently focused on distributed ledger technology as a foundational layer for:
 
-real-world asset tokenisation
-machine-to-machine economic interaction
-verifiable data and compute
-trust infrastructure in increasingly autonomous systems
+- real-world asset tokenisation
+- machine-to-machine economic interaction
+- verifiable data and compute
+- trust infrastructure in increasingly autonomous systems
 
 I see DLT not as a purely financial innovation, but as a coordination layer for systems that require shared state, verifiability, and trust without central dependency.
 
